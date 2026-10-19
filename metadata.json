@@ -1,0 +1,8 @@
+{
+  "name": "SatuAlbum • Kamera Sekali Pakai Pernikahan & Acara",
+  "description": "Kamera sekali pakai digital berbasis QR untuk pernikahan dan acara spesial. Setiap tamu memotret momen candid dengan estetika film analog, terkumpul dalam satu album bersama.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
